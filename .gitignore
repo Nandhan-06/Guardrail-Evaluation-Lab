@@ -1,0 +1,19 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Secrets - never commit API keys
+.env
+*.env
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local scratch output
+results.txt
